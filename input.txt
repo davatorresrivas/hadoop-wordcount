@@ -1,0 +1,4 @@
+big data
+hadoop procesa big data
+mapreduce procesa datos
+big data con hadoop
